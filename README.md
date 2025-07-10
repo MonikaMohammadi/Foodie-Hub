@@ -37,7 +37,7 @@ A public food ordering platform where users can browse restaurants and menus, pl
     node app.js
 
 7. **API Reference**
-    All endpoints run on http://localhost:3000
+    All endpoints run on http://localhost:3000 and can be tested using Postman.
 
    ### 🏪 Restaurants
    | Method | URL                | Description          |
